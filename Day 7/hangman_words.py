@@ -1,0 +1,23 @@
+words = [
+    "apple", "banana", "orange", "grape", "peach", "mango", "lemon", "berry", "melon", "cherry",
+    "house", "chair", "table", "lamp", "couch", "window", "floor", "door", "stairs", "roof",
+    "cat", "dog", "fish", "bird", "horse", "sheep", "mouse", "rabbit", "turtle", "fox",
+    "ocean", "river", "lake", "beach", "island", "wave", "sand", "cliff", "reef", "shell",
+    "sun", "moon", "star", "cloud", "rain", "wind", "storm", "snow", "fog", "light",
+    "bread", "butter", "cheese", "honey", "sugar", "salt", "spoon", "knife", "plate", "glass",
+    "car", "train", "plane", "truck", "bike", "boat", "bus", "motor", "taxi", "scooter",
+    "book", "pen", "paper", "pencil", "eraser", "ruler", "sharpener", "marker", "board", "notebook",
+    "red", "blue", "green", "yellow", "purple", "pink", "brown", "white", "black", "gray",
+    "happy", "sad", "angry", "scared", "tired", "calm", "brave", "kind", "funny", "quiet",
+    "spring", "summer", "autumn", "winter", "season", "month", "week", "day", "hour", "minute",
+    "cup", "bowl", "jug", "pan", "plate", "tray", "fork", "knife", "spoon", "glass",
+    "king", "queen", "prince", "princess", "castle", "knight", "crown", "dragon", "magic", "sword",
+    "rainbow", "butterfly", "flower", "garden", "forest", "mountain", "valley", "tree", "leaf", "river",
+    "shirt", "pants", "dress", "skirt", "jacket", "coat", "hat", "scarf", "glove", "sock",
+    "doctor", "nurse", "teacher", "lawyer", "farmer", "chef", "pilot", "artist", "singer", "actor",
+    "pizza", "burger", "pasta", "salad", "soup", "rice", "meat", "fish", "fruit", "bread",
+    "phone", "camera", "radio", "computer", "screen", "keyboard", "mouse", "tablet", "charger", "headset",
+    "game", "toy", "doll", "puzzle", "ball", "kite", "robot", "drum", "car", "train",
+    "fruit", "vegetable", "flower", "plant", "tree", "bush", "leaf", "grass", "root", "seed",
+    "school", "class", "teacher", "student", "desk", "board", "lesson", "homework", "exam", "grade"
+]
